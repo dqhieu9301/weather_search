@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather_search/static/css/main.3334ca8f.css",
+    "main.js": "/weather_search/static/js/main.94273314.js",
+    "static/js/787.334c7f4a.chunk.js": "/weather_search/static/js/787.334c7f4a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/weather_search/static/media/fa-solid-900.6aef0a3f12850e081374.ttf",
+    "static/media/fa-brands-400.ttf": "/weather_search/static/media/fa-brands-400.8dddb1b4cd1f65b03167.ttf",
+    "static/media/fa-solid-900.woff2": "/weather_search/static/media/fa-solid-900.1089d04e572b44b3d54a.woff2",
+    "static/media/fa-brands-400.woff2": "/weather_search/static/media/fa-brands-400.a4ac62083ead21bd1ea2.woff2",
+    "static/media/fa-regular-400.ttf": "/weather_search/static/media/fa-regular-400.e2e080ba746195932d7f.ttf",
+    "static/media/fa-regular-400.woff2": "/weather_search/static/media/fa-regular-400.d9ed9b6f8138a03cd29d.woff2",
+    "static/media/fa-v4compatibility.ttf": "/weather_search/static/media/fa-v4compatibility.83a9e0357eddeb41b08b.ttf",
+    "static/media/fa-v4compatibility.woff2": "/weather_search/static/media/fa-v4compatibility.2e77423e3ed431908eda.woff2",
+    "index.html": "/weather_search/index.html",
+    "main.3334ca8f.css.map": "/weather_search/static/css/main.3334ca8f.css.map",
+    "main.94273314.js.map": "/weather_search/static/js/main.94273314.js.map",
+    "787.334c7f4a.chunk.js.map": "/weather_search/static/js/787.334c7f4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3334ca8f.css",
+    "static/js/main.94273314.js"
+  ]
+}
